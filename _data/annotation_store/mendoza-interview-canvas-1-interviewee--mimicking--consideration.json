@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--mimicking--consideration.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Mimicking, Consideration",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--mimicking--consideration-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And he was busy. So he said, he asked me, \"I want you to take a role in leading the formation of NHAJ. I'll do whatever I need to do to help you and to support you and make sure times mirror as part of that. But I don't want to be out front.\" I said, \"Sure.\" ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "58.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--reminiscing--body-language.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Reminiscing, Body Language",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--reminiscing--body-language-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That was as I was going to college. That kind of directed me for a lot of reasons. And I wound up at Cal State Fullerton where I got my degree in uh *looks off*...communications.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1.0"
+        }
+      }
+    }
+  ]
+}

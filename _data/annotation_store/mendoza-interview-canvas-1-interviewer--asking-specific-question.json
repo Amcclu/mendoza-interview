@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--asking-specific-question.json",
+  "type": "AnnotationPage",
+  "label": "Interviewer: Asking specific question",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewer--asking-specific-question-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So in your first job, were – how diverse was the newsroom?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "3.0"
+        }
+      }
+    }
+  ]
+}

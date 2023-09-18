@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--qualifying-question--contextualizing.json",
+  "type": "AnnotationPage",
+  "label": "Interviewer: Qualifying Question, Contextualizing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewer--qualifying-question--contextualizing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Also, the other thing, I mean, you were helping connect people with the newspaper. Was there any pressure? I mean, there was that one call you mentioned, but was there any pressure of people trying to say, well, you know, the newspaper or you personally should do more to...",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "18.0"
+        }
+      }
+    }
+  ]
+}

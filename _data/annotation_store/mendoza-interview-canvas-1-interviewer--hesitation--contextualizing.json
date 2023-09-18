@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--hesitation--contextualizing.json",
+  "type": "AnnotationPage",
+  "label": "Interviewer: Hesitation, Contextualizing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewer--hesitation--contextualizing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What, What can you tell, tell us about...so Mr. Frank Del Olmo was there at the same time –",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "19.0"
+        }
+      }
+    }
+  ]
+}

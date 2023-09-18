@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--interrupting--directness--forthcomingness--mimicking--gesturing--body-language--nodding-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Interrupting, Directness, Forthcomingness, Mimicking, Gesturing, Body Language (nodding)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--interrupting--directness--forthcomingness--mimicking--gesturing--body-language--nodding--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>Aware. They better understood what diversity was all about. And fortunately, they figured out – Sometimes women were involved too \"Maybe <i>women</i> will talk – Who's the subject, who are you talking to? Would they talk better to a woman? A man or a woman?\" Yeah! \"More open?\" Yeah! It's been it's been a – when it hits, you almost sometimes see that their eyes widen: \"Ohh, that's how that's what that works.\" </html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "38.0"
+        }
+      }
+    }
+  ]
+}

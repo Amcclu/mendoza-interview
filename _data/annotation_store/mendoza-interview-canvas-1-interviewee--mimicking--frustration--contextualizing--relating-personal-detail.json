@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--mimicking--frustration--contextualizing--relating-personal-detail.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Mimicking, Frustration, Contextualizing, Relating Personal Detail",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--mimicking--frustration--contextualizing--relating-personal-detail-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>\"The taco beat, you know.\" Well, it's not possible. And that just because I don't know, something doesn't mean I'm not, you know, I can do other things. So yeah, assignments used to be. <i>They</i> learned the hard way sometimes. An old high school competitor and friend of mine was the city editor one day when a fire broke out in Las Vegas, and I was on my way there for the weekend anyway. </html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "34.0,35.0"
+        }
+      }
+    }
+  ]
+}

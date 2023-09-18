@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--body-language--eye-contact---gesturing.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Relating Firsthand Experience, Body Language (eye contact), Gesturing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--body-language--eye-contact---gesturing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>Issues come up. So you treat the immediate – you treat the events a little differently. And many of us, I know, I was in Mexico a lot for a series. And I did petroleum explosion in San Juanito. So you <i>learn</i> the way you're treated there. And it just happens. </html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "51.0,52.0"
+        }
+      }
+    }
+  ]
+}

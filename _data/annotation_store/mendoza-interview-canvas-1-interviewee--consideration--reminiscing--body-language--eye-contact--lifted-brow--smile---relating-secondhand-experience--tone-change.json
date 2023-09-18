@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--reminiscing--body-language--eye-contact--lifted-brow--smile---relating-secondhand-experience--tone-change.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Consideration, Reminiscing, Body Language (eye contact, lifted brow, smile), Relating Secondhand Experience, Tone Change",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--consideration--reminiscing--body-language--eye-contact--lifted-brow--smile---relating-secondhand-experience--tone-change-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "A handful of – Frank Sotomayor was...when they would get together. And they would often *pause* And this is the way they described it. After a week, or a day, depending on the events or whatever, they'd get together and get a six pack of beers at a house and sit and talk about this and that and all the things, all the issues that came up that they thought were important. Maybe not being covered or not being covered enough, whatever. And then it occurred thanks to Joel..oh god, I can't remember his last name. I never met him because then he he died before they got too far along. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "23.0,24.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--gesturing--hesitation--body-language--eye-contact-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Consideration, Gesturing, Hesitation, Body Language (eye contact)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--consideration--gesturing--hesitation--body-language--eye-contact--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We had, in fact...we had several things that we did. *hand gestures*We gave scholarships–the first thing we did was give scholarships to students. We've given a lot of money historically to students. That's always been the first...priority. The whole idea was: we need more. How are we going to get more? Send them to college. So that was our first priority. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "45.0"
+        }
+      }
+    }
+  ]
+}

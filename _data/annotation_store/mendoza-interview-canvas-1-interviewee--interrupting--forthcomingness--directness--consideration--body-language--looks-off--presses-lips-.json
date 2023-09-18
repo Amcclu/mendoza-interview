@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--interrupting--forthcomingness--directness--consideration--body-language--looks-off--presses-lips-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Interrupting, Forthcomingness, Directness, Consideration, Body Language (looks off, presses lips)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--interrupting--forthcomingness--directness--consideration--body-language--looks-off--presses-lips--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Absolutely. Providing access, introduction, and then I'd say, \"If you have any problems, call me.\" Ideally, there'd be no calls. Every once in a while. But I thought fairness was important. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "16.0"
+        }
+      }
+    }
+  ]
+}

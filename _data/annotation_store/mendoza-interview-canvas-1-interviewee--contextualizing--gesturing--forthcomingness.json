@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--gesturing--forthcomingness.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Contextualizing, Gesturing, Forthcomingness",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--contextualizing--gesturing--forthcomingness-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, San Bernardino and Riverside – They're right next to each other. I started at the Riverside paper. Then I moved to the San Bernardino paper. There weren't – They had some agreements about competing with each other, even though they were 10 miles away. So they both grew to pretty mid size at that point. So I went from San Bernardino – I mean from Riverside, to San Bernardino. So I was in the Inland Empire. It's called the Inland Empire. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "28.0,29.0"
+        }
+      }
+    }
+  ]
+}

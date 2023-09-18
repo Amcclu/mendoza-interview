@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--shaking-head--nodding--eye-contact---relating-firsthand-experience.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Body Language (shaking head, nodding, eye contact), Relating Firsthand Experience",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--body-language--shaking-head--nodding--eye-contact---relating-firsthand-experience-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I don't remember what the numbers were. We, Gannett gave them 20...25,000 to get things going and fund an Executive Director – Andrea Cano was the first – and get things rolling! From then, every year Gannett was *nodding* for a long time Gannett was *nods*... ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "26.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--frustration--body-language--shaking-head---reminiscing.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Frustration, Body Language (shaking head), Reminiscing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--frustration--body-language--shaking-head---reminiscing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>*frustrated tone* Well, LA is a big city. I know a lot. And I was born there. But it doesn't mean I know everything going on – even <i>then –</i> in the Latino community. So we used to we used  – that's one of the stories that they used to talk about over the beers and talking about after aftermath. </html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "34.0"
+        }
+      }
+    }
+  ]
+}

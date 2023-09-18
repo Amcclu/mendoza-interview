@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--body-langauge--smile---laughter--mimicking--consideration.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Relating Firsthand Experience, Body Langauge (smile), Laughter, Mimicking, Consideration",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--body-langauge--smile---laughter--mimicking--consideration-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>To be, I was recruited by <i>The Post</i> – I got a tryout with <i>The Post</i> from that. They didn't select me and said I wasn't ready. And a few years later, they came back and said *laughs* \"You want to come now?\" No. *loud laugh* Not now, I'm fine. So I know it worked. I met I met some people. That's how I met Bob, so *long pause* so that that was kind of the second facet: Education, and recruitment and placement. </html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "47.0,48.0"
+        }
+      }
+    }
+  ]
+}

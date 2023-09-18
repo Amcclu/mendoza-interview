@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--body-language--shaking-head--shrugging---mimicking--relating-firsthand-experience--tone-change.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Contextualizing, Body Language (shaking head, shrugging), Mimicking, Relating Firsthand Experience, Tone Change",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--contextualizing--body-language--shaking-head--shrugging---mimicking--relating-firsthand-experience--tone-change-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>There was a young woman, who later became a photographer and then I think she worked at the New York Times, a Latina. She came to us in tears at the back of the room, and I went to my desk. She said, \"How can you take that?\" I said, \"Well, they called me Pancho Villa.\" And <i>I</i> didn't take it negatively. *shakes head, shrugs shoulders* But she did. She didn't like that. </html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "41.0,42.0"
+        }
+      }
+    }
+  ]
+}

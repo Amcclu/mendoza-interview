@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--tone-change--relating-firsthand-experience--body-language--nod--eye-contact-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Tone Change, Relating Firsthand Experience, Body Language (nod, eye contact)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--tone-change--relating-firsthand-experience--body-language--nod--eye-contact--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But they also needed to interview in Spanish, because it was a lot of\npeople who weren't necessarily very fluent in English. So that's where I came in. I did a lot of interviews in Spanish. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "10.0"
+        }
+      }
+    }
+  ]
+}

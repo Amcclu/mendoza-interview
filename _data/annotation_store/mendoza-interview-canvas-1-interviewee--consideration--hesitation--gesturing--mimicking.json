@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--hesitation--gesturing--mimicking.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Consideration, Hesitation, Gesturing, Mimicking",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--consideration--hesitation--gesturing--mimicking-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It used to be Spanish language media was so small. It was hard to, it was just – different level. At the same time, it's grown. Univision, arguably at a given moment can be the strongest media outlet in the country, especially LA right now. So they like to show show their ratings and say, \"Look, nobody's...\" and they're, right! It depends on what you're measuring and ratings are always not...appropriately designated. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "49.0"
+        }
+      }
+    }
+  ]
+}

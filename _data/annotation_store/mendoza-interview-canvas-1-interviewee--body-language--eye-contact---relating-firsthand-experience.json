@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--eye-contact---relating-firsthand-experience.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Body Language (eye contact), Relating Firsthand Experience",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--body-language--eye-contact---relating-firsthand-experience-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>And I would make sure they knew how the newsrooms operated. Because there was only one. Or two or three of them, you\nknow, at the <i>most</i> in most of these newsrooms. So I would introduce them to the Feature Editor, to the Business Editor, and then I'd make sure they knew where to go to get their story in the paper. </html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "16.0"
+        }
+      }
+    }
+  ]
+}

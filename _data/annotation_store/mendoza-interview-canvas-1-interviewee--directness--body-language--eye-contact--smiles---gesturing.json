@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--body-language--eye-contact--smiles---gesturing.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Directness, Body Language (eye contact, smiles), Gesturing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--directness--body-language--eye-contact--smiles---gesturing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>Oh, yeah, absolutely. Sacramento, we had a Sacramento Chapter that was <i>very</i> active. That was in the early 90s. But that was also a function of when there was more of us in different places. And thank – there was more. There <i>were</i> more. *smiles*</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "53.0,54.0"
+        }
+      }
+    }
+  ]
+}

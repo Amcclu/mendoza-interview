@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--hesitation--consideration--relating-personal-detail--gesturing--contextualizing.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Hesitation, Consideration, Relating Personal Detail, Gesturing, Contextualizing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--hesitation--consideration--relating-personal-detail--gesturing--contextualizing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>There was a...<i>small</i> dispute about all if I wasn't president, why should I? Well, it's because it's me. It wasn't. And I was stubborn and steadfast. I wanted to stay involved, because I was telling Frank everything that was going on. And he was kind of the guru, if you will, and a good friend, and they trusted him and he trusted me. So I would tell Frank, everything that was going on and he'd guide or make sure that we got – because he had he had tentacles and connections all over the country. So he was able to help us a lot more than people realize.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "58.0,59.0"
+        }
+      }
+    }
+  ]
+}

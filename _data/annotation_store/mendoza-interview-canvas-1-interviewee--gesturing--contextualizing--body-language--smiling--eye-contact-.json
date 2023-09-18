@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--gesturing--contextualizing--body-language--smiling--eye-contact-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Gesturing, Contextualizing, Body Language (Smiling, Eye Contact)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--gesturing--contextualizing--body-language--smiling--eye-contact--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And we'd figured out ways to get them in because David Reyes was in San Diego. Robert was in San Diego. We had people all over but, so we'd go to lunch together. We'd have enjoyable lunches with him. And the woman who turned, is his wife. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "40.0,41.0"
+        }
+      }
+    }
+  ]
+}

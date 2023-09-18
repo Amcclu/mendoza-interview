@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--body-language--looks-off---tone-change.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Relating Firsthand Experience, Body Language (looks off), Tone Change",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--body-language--looks-off---tone-change-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>I was lucky, <i>now</i> it would be different. And that's why when you hear like 911, and nobody – very few people in the State Department knew how to speak the language of some of these culprits. That's diversity. And now the whole world has...got to be diverse. It's all here. It's all everywhere. It's all communicating. </html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "37.0"
+        }
+      }
+    }
+  ]
+}

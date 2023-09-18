@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--tone-change--laughter.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Consideration, Tone Change, Laughter",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--consideration--tone-change--laughter-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>So I opened the Riverside Bureau for ABC KBC. And because...we only had – the limited expectations they had from us, a couple of stories a day, just didn't satisfy me. A good friend of mine, or a guy who I had met in an interview with <i>The Washington Post</i>, Bob Maynard, was the first black editor of a major newspaper in the country, he got he was named the editor of <i>The Oakland Tribune</i>. *laughs* I forgot about that. </html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "30.0"
+        }
+      }
+    }
+  ]
+}

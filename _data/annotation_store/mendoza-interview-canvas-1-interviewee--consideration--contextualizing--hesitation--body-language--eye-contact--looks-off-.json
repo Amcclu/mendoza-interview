@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--contextualizing--hesitation--body-language--eye-contact--looks-off-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Consideration, Contextualizing, Hesitation, Body Language (eye contact, looks off)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--consideration--contextualizing--hesitation--body-language--eye-contact--looks-off--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>It would also be the guy that was responsible for hiring Frank and hiring me. He's gone now. Mark Murphy. He was the Metro editor at <i>The LA Times</i>. *looks off to the side* And Mark was a great man. Sensitive man, and he kind of got...He got it. </html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "39.0"
+        }
+      }
+    }
+  ]
+}

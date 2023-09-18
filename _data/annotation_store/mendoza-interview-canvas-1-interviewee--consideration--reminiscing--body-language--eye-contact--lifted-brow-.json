@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--reminiscing--body-language--eye-contact--lifted-brow-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Consideration, Reminiscing, Body Language (eye contact, lifted brow)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--consideration--reminiscing--body-language--eye-contact--lifted-brow--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>And I guess, you know, to us, all we know is that's where we met. I never – I'm not sure if he had finished college or not. But I know he was already connected to <i>The LA Times</i>. And I think he had been an intern there too. And that's where he wound up working and then developing a very great career.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "19.0,20.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration-relating-firsthand-experience--body-language--raised-eyebrow--smile-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Consideration,Relating Firsthand Experience, Body Language (raised eyebrow, smile)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--consideration-relating-firsthand-experience--body-language--raised-eyebrow--smile--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>Interestingly...when I was offered a job by <i>The LA Times</i>, they offered me more money than Frank Del Olmo was making. And I told Frank, I said, \"Here's what they're offering\" And he says  \"hmm.\" We were good friends. He used that to leverage himself a raise. </html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "33.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--qualifying--hesitation--relating-personal-detail-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Qualifying, Hesitation, Relating Personal Detail ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--qualifying--hesitation--relating-personal-detail--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>But it wasn't that significant. It wasn't <i>big</i>. And I don't... *falters* I say it wasn't significant in that it wasn't so far reaching, but it was there. And, and the identification... that's part of why CCNMA was born, Chicano News Media Association because...Well, I'll tell you more as we progress.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "21.0,22.0"
+        }
+      }
+    }
+  ]
+}

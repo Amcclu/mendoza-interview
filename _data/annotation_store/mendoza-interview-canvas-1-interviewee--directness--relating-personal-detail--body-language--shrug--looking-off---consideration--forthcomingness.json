@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--relating-personal-detail--body-language--shrug--looking-off---consideration--forthcomingness.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Directness, Relating Personal Detail, Body Language (shrug, looking off), Consideration, Forthcomingness",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--directness--relating-personal-detail--body-language--shrug--looking-off---consideration--forthcomingness-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>Never an issue. We understand the difference. I mean, <i>I</i> don't think it was an issue. We understood from early on that different qualifications, different necessities, different issues. When when you're being licensed in a country...and <i>observed</i>, then it's different. </html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "51.0"
+        }
+      }
+    }
+  ]
+}

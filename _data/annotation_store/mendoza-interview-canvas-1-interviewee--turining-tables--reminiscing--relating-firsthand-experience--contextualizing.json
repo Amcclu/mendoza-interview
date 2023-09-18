@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--turining-tables--reminiscing--relating-firsthand-experience--contextualizing.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Turining Tables, Reminiscing, Relating Firsthand Experience, Contextualizing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--turining-tables--reminiscing--relating-firsthand-experience--contextualizing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Let me let me, I gotta interject here. As I said before, Frank Del Olomo was the senior editorial guy in the country. So when, when they came to CCNMA and talked about...he was also pretty high on the, on the mast at the LA Times. He was also very guarded about forming a national group that included beyond news media. And wanted to be careful. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "57.0,58.0"
+        }
+      }
+    }
+  ]
+}

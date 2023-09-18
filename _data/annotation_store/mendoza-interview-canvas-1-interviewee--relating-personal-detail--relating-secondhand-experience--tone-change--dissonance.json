@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-personal-detail--relating-secondhand-experience--tone-change--dissonance.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Relating Personal Detail, Relating Secondhand Experience, Tone Change, Dissonance",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--relating-personal-detail--relating-secondhand-experience--tone-change--dissonance-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And when I was a kid, and I grew up a little bit, my father had a friend who was in real estate. And every once in a while, because my father was pretty well known in town, they'd go up to look at the homes in Grand Terrace. And the buzz would start. \"Are they gonna move here?\" Because they didn't like Mexican people living up there. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "14.0"
+        }
+      }
+    }
+  ]
+}

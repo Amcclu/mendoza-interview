@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--smiles--looks-off--consideration--laughter--hesitiation--gesturing.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Body Language (smiles, looks off) Consideration, Laughter, Hesitiation, Gesturing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--body-language--smiles--looks-off--consideration--laughter--hesitiation--gesturing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "*Smiles* There was recognition. One of the things that was difficult – And we can segue to NAHJ – One of the...issues was...the First Amendment and the notion of journalists being independent. It's is is a difference from being a Hispanic public relations person. *nods, and looks pointedly* ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "55.0,56.0"
+        }
+      }
+    }
+  ]
+}

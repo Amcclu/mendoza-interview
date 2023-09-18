@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-secondhand-experience--hesitation.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Relating Secondhand Experience, Hesitation",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--relating-secondhand-experience--hesitation-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They used to share stories. Then it occurred to them \"maybe we should try and organize or do something.\" And that's when the group got together and got loosely organized, you know they put in 20 bucks a year or something and paid dues and... That's when the group got together and came up. I hate to say it, but their first name was the California Chicano News Men's Association. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "24.0,25.0"
+        }
+      }
+    }
+  ]
+}

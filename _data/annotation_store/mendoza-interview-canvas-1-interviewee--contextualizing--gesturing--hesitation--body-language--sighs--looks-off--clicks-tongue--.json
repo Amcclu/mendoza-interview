@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--gesturing--hesitation--body-language--sighs--looks-off--clicks-tongue--.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Contextualizing, Gesturing, Hesitation, Body Language (sighs, looks off, clicks tongue) ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--contextualizing--gesturing--hesitation--body-language--sighs--looks-off--clicks-tongue---annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And the point was, he was, they were raising and he was raising points that weren't issues, but it was all *gestures with hands* I hate to put it, kind of the whole notion of, you know, that was an East Coast game. So who are we from California? and in those days, we were more *gestures* less considered, right? *looks off, clicks tongue* ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "61.0"
+        }
+      }
+    }
+  ]
+}

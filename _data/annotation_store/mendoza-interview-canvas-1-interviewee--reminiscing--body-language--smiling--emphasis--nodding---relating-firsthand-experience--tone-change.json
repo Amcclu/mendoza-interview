@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--reminiscing--body-language--smiling--emphasis--nodding---relating-firsthand-experience--tone-change.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Reminiscing, Body Language (smiling, emphasis, nodding), Relating Firsthand Experience, Tone Change",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--reminiscing--body-language--smiling--emphasis--nodding---relating-firsthand-experience--tone-change-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>And Jerry <i>looved</i> it. *throws head back for emphasis* His eyes would – *quietly* I think he's still around in Arizona. And Jerry used to <i>love</i> to hear the mariachi. He never stopped smiling with a mariachi group. He loved being in the middle of that. And Jerry kept supporting us. He'd make us still align and make sure we knew what we were doing. But Jerry kept supporting us...</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "26.0,27.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--gesturing--mimicking--body-language--squinting--smiling-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Gesturing, Mimicking, Body Language (squinting, smiling)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--gesturing--mimicking--body-language--squinting--smiling--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But I started calling in stuff to the writers, you know I was in the field, and we had a whole – It was a big fire, national story. And they kept saying, \"Where'd you get this? You're getting stuff nobody else has. Are you sure they said that?\" I said, \"Yeah.\" And afterwards, I figured out, and they figured out, Bally's was the only hotel in those days to have an office in Mexico City. They had 800 Mexicans there celebrating a holiday on a trip, you know, as a group. *quieter, smiles* Well, I found all these people speaking Spanish. I was the only Latino reporter there. So I got a lot of quotes nobody else got. A lot of stories nobody else got.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "35.0,36.0"
+        }
+      }
+    }
+  ]
+}

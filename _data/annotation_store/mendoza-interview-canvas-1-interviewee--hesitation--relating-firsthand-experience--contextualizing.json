@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--hesitation--relating-firsthand-experience--contextualizing.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Hesitation, Relating Firsthand Experience, Contextualizing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--hesitation--relating-firsthand-experience--contextualizing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And then we developed a thing called...it was – I don't know if anybody else had done it, it's kind of routine now – called the job fair. And actually, we called it the Journalism Education Program, where we would, for a weekend, invite recruiters from media all over the country, to a location – USC, UCLA, downtown, whatever hotels – and have a conference, and we called it the Journalism Opportunities Conference. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "45.0,46.0"
+        }
+      }
+    }
+  ]
+}

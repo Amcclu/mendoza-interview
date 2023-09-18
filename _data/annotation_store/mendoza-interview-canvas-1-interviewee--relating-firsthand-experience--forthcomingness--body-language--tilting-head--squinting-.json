@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--forthcomingness--body-language--tilting-head--squinting-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Relating Firsthand Experience, Forthcomingness, Body Language (tilting head, squinting)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--forthcomingness--body-language--tilting-head--squinting--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Which was pretty interesting for me because my background, my school, Wilson School and Colton, one of six schools in the city. And the only one that was 99%, Latino, Mexican. All the other ones were less mixed. And mostly Anglo so... accident? mmm ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "12.0"
+        }
+      }
+    }
+  ]
+}

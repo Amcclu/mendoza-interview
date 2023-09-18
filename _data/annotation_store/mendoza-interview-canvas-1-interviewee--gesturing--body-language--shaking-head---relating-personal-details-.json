@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--gesturing--body-language--shaking-head---relating-personal-details-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Gesturing, Body Language (shaking head), relating personal details ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--gesturing--body-language--shaking-head---relating-personal-details--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>And then we expanded it, it used to be juniors and seniors. Then we just said anybody could come. And the idea was that you're a face that they recognize in year after year after year. The recruiters, that's how I connected with <i>The Washington Post</i>. Even though I was a professional – if you wanted to students, or professionals, you want to move on, move up, move over. </html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "47.0"
+        }
+      }
+    }
+  ]
+}

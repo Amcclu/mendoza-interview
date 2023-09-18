@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--consideration--body-language--raised-eyebrow---gesturing.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Relating Firsthand Experience, Consideration, Body Language (raised eyebrow), Gesturing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--consideration--body-language--raised-eyebrow---gesturing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>But I gotta say that my experience has been: Spanish language media has done a <i>great</i> job of catching up and getting rid of those – I mean, we're not good friends, but I met him a long time ago, Jorge Ramos. He's become a great spokesman as it should be. That's what we need. More. And he's been a great spokesman for the diversity issues. I mean, you saw what he did. He challenged Trump. So yeah, they've I think they've stepped up very well.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "52.0"
+        }
+      }
+    }
+  ]
+}

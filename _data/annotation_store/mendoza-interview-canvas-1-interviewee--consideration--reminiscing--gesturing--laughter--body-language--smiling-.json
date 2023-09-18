@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--reminiscing--gesturing--laughter--body-language--smiling-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Consideration, Reminiscing, Gesturing, Laughter, Body Language (smiling)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--consideration--reminiscing--gesturing--laughter--body-language--smiling--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>I remember... I can't remember his <i>name</i>...He was a former light heavyweight champion of the world – Torres. Was it Torres? I think – he went to our meeting in New York, we wound up having meetings all over the country, that that's why it took two years. He came to he was a, *laughs* he had a nickname. And I don't know if he was... </html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "60.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--gesturing--mimicking--body-language--grimace--smile-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Contextualizing, Gesturing, Mimicking, Body Language (grimace, smile)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--contextualizing--gesturing--mimicking--body-language--grimace--smile--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But he had a column in New York. He was a journalist too. Nice man, smart man. But he was the former light heavyweight champion of the world. And he was standing at our forum. And he's telling me, \"Why are you here? We don't care about you.\" *grimace*",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "60.0,61.0"
+        }
+      }
+    }
+  ]
+}

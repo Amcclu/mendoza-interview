@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--relating-firsthand-experience--relating-personal-detail--hesitation--tone-change-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Contextualizing, Relating Firsthand Experience, Relating Personal Detail, Hesitation, Tone Change ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--contextualizing--relating-firsthand-experience--relating-personal-detail--hesitation--tone-change--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>And Bob was, if you if you see the movie, All the President's Men, he was the one black face in <i>The Washington Post</i>, in that experience. But I knew him, and he had come out to my house. That house that I told you about that I bought and Grand Terrace used to be segregated. Bob was there for a party after a journalism day we had at The University of the Redlands. We became friends. And then so when he got named editor of the <i>The Oakland Tribune</i>, I was completely it was really a surprise. Gannett kind of gave him that paper to be editor. And then he wound up buying it, because the paper was...having trouble. *quiets down*. It was the end of an era. </html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "30.0,31.0"
+        }
+      }
+    }
+  ]
+}

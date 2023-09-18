@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--smiles--looks-off--shakes-head---hesitation--consideration--tone-change--gesturing.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Body Language (smiles, looks off, shakes head), hesitation, Consideration, Tone Change, Gesturing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--body-language--smiles--looks-off--shakes-head---hesitation--consideration--tone-change--gesturing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "*Shakes head quickly* That was later. Yeah. When I was *uncertainty* – I guess I was – I don't remember – I've been president and I've been an executive director. And I think when I was president, I encouraged. *certain* Yeah, we started having local chapters. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "53.0"
+        }
+      }
+    }
+  ]
+}

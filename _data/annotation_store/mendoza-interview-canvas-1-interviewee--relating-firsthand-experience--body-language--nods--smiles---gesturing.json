@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--body-language--nods--smiles---gesturing.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Relating Firsthand Experience, Body Language (nods, smiles), Gesturing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--body-language--nods--smiles---gesturing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "They asked us for a copy of the bylaws which we shared. And they formed when they got them. And the subsequent groups were all born from California Chicano Association News Media Association bylaws and our, and then obviously what we started to do. Whether it was chapters, they were always invited to journalism opportunities conferences. *proudly nods* We were a pioneer.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "54.0,55.0"
+        }
+      }
+    }
+  ]
+}

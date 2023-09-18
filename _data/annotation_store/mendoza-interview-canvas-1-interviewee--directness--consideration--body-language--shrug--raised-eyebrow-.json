@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--consideration--body-language--shrug--raised-eyebrow-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Directness, Consideration, Body Language (Shrug, raised eyebrow)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--directness--consideration--body-language--shrug--raised-eyebrow--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>Well, they were sensitive. They were open.They would listen. You know, and no matter how much...diversity they recognized...it's hard. If there's only one of me or <i>two</i> of me, and there weren't many Latinos, it's even harder. So yeah, they were open to it. But it was still...different.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "28.0"
+        }
+      }
+    }
+  ]
+}

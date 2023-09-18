@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--gesturing--body-language--looks-off---rapport-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Contextualizing. Gesturing, Body Language (looks off), Rapport ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--contextualizing--gesturing--body-language--looks-off---rapport--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "When I moved from The LA Times to move back to Channel 7. And there was a period during which I was kind of between the jobs I had a week off, maybe two *looks off to the side*. There was a, an incident downtown, where federal authorities discriminated against one of our photographers, *points to interviewer* the guy I was trying to remember, Chapo.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "43.0"
+        }
+      }
+    }
+  ]
+}

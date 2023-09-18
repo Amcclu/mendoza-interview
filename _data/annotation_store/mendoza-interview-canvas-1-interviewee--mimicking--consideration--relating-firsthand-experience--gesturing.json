@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--mimicking--consideration--relating-firsthand-experience--gesturing.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Mimicking, Consideration, Relating Firsthand Experience, Gesturing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--mimicking--consideration--relating-firsthand-experience--gesturing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>*mocking tone* \"Well, why can't we join?\" Well, you because you're a PR guy. Or, and that's what – a lot of my memory is a lot of people in PR from Texas, had come here, because JLC was getting bigger. And they were here for a lot of reasons. But they wanted to know, \"Well can't, can't we join?\" Yeah, you can, but you don't get to vote. Sorry. That's just how we are. And we were very, <i>very</i> careful about that. That was a big battle.</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "56.0,57.0"
+        }
+      }
+    }
+  ]
+}

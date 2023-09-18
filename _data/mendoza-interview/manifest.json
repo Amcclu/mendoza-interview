@@ -23,6 +23,1672 @@
         "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
         "type": "Canvas",
         "duration": 5908.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--hesitation--consideration--relating-personal-detail--gesturing--contextualizing.json",
+            "label": {
+              "none": ["Interviewee: Hesitation, Consideration, Relating Personal Detail, Gesturing, Contextualizing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--shaking-head---relating-firsthand-experience.json",
+            "label": {
+              "none": ["Interviewee: Body Language (shaking head), Relating Firsthand Experience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experiences--body-language--tilt-head--furrowed-brow-.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experiences, Body Language (tilt head, furrowed brow)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--laughter--contextualizing--tone-change.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Laughter, Contextualizing, Tone Change"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--tone-shift--contextualizing--body-language--eye-contact--squint---gesturing.json",
+            "label": {
+              "none": ["Interviewee: Tone Shift, Contextualizing, Body Language (eye contact, squint), Gesturing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--rapport--clarifying--specific-question.json",
+            "label": {
+              "none": ["Interviewer: Rapport, Clarifying, Specific Question"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--smiling---reminiscing--relating-firsthand-experience--contextualizing.json",
+            "label": {
+              "none": ["Interviewee: Body Language (smiling), Reminiscing, Relating Firsthand Experience, Contextualizing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--gesturing--mimicking--body-language--shrugging-.json",
+            "label": {
+              "none": ["Interviewee: Gesturing, Mimicking, Body Language (shrugging)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--reminiscing--gesturing--laughter--body-language--smiling-.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Reminiscing, Gesturing, Laughter, Body Language (smiling)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--emotion--choking-up---body-language--eye-contact---gesturing.json",
+            "label": {
+              "none": ["Interviewee: Emotion (choking up), Body Language (eye contact), gesturing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--interrupting--relating-firsthand-experience--consideration--gesturing--mimicking--reminiscing.json",
+            "label": {
+              "none": ["Interviewee: Interrupting, Relating Firsthand Experience, Consideration, Gesturing, Mimicking, Reminiscing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--consideration--body-language--shrug--raised-eyebrow-.json",
+            "label": {
+              "none": ["Interviewee: Directness, Consideration, Body Language (Shrug, raised eyebrow)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--body-language--looks-off---tone-change.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Body Language (looks off), Tone Change"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--laughter--rapport--joking-.json",
+            "label": {
+              "none": ["Interviewee: Body Language, Laughter, Rapport (Joking)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--body-language--shaking-head--furrowing-brow-.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Body Language (shaking head, furrowing brow)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--clarifying--mimicking.json",
+            "label": {
+              "none": ["Interviewee: Clarifying, Mimicking"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--gesturing--hesitation--body-language--sighs--looks-off--clicks-tongue--.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Gesturing, Hesitation, Body Language (sighs, looks off, clicks tongue) "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--dissonance--reminiscing--body-language.json",
+            "label": {
+              "none": ["Interviewee: Dissonance, Reminiscing, Body Language"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--smiles--looks-off--consideration--laughter--hesitiation--gesturing.json",
+            "label": {
+              "none": ["Interviewee: Body Language (smiles, looks off) Consideration, Laughter, Hesitiation, Gesturing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--interrupting--consideration--body-language--pause--looking-off-.json",
+            "label": {
+              "none": ["Interviewee: Interrupting, Consideration, Body Language (pause, looking off)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--laughter---reminiscing-.json",
+            "label": {
+              "none": ["Interviewee: Body Language (laughter), Reminiscing "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--clarifying--contextualizing.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Clarifying, Contextualizing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--positioning--specific-question.json",
+            "label": {
+              "none": ["Interviewer: Positioning, Specific Question"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--body-language--eye-contact--smiles---gesturing.json",
+            "label": {
+              "none": ["Interviewee: Directness, Body Language (eye contact, smiles), Gesturing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--qualifying-question--contextualizing.json",
+            "label": {
+              "none": ["Interviewer: Qualifying Question, Contextualizing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--laughter--rapport--joking---reminiscing.json",
+            "label": {
+              "none": ["Interviewee: Laughter, Rapport (joking), Reminiscing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--reminiscing--consideration--tone-change.json",
+            "label": {
+              "none": ["Interviewee: Reminiscing, Consideration, Tone Change"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--eyebrow-raise--smile-.json",
+            "label": {
+              "none": ["Interviewee: Body Language (eyebrow raise, smile)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--laughter--reminiscing--rapport--joking-.json",
+            "label": {
+              "none": ["Interviewee: Laughter, Reminiscing, Rapport (Joking)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--frustration--body-language--shaking-head---reminiscing.json",
+            "label": {
+              "none": ["Interviewee: Frustration, Body Language (shaking head), Reminiscing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--tone-change--body-language--smile-.json",
+            "label": {
+              "none": ["Interviewee: Tone Change, Body Language (smile)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--tone-change--body-language--squint--tilt-head-.json",
+            "label": {
+              "none": ["Interviewee: Tone Change, Body Language (squint, tilt head)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--agreement.json",
+            "label": {
+              "none": ["Interviewee: Agreement"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--interrupting--directness--forthcomingness--mimicking--gesturing--body-language--nodding-.json",
+            "label": {
+              "none": ["Interviewee: Interrupting, Directness, Forthcomingness, Mimicking, Gesturing, Body Language (nodding)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--eye-contact---recovering-composure--.json",
+            "label": {
+              "none": ["Interviewee: Body Language (eye contact), Recovering Composure. "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--mimicking--consideration--relating-firsthand-experience--gesturing.json",
+            "label": {
+              "none": ["Interviewee: Mimicking, Consideration, Relating Firsthand Experience, Gesturing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--rapport--nod-to-the-interviewer---body-language.json",
+            "label": {
+              "none": ["Interviewee: Rapport (nod to the interviewer), Body Language"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--laughter--reminiscing--body-language--tone-shift.json",
+            "label": {
+              "none": ["Interviewee: Laughter, Reminiscing, Body Language, Tone Shift"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--eye-contact---contextualizing.json",
+            "label": {
+              "none": ["Interviewee: Body Language (eye contact), Contextualizing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experiences.json",
+            "label": {
+              "none": ["Interviewee: Relating firsthand experiences"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--reminiscing--body-language--eye-contact--lifted-brow-.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Reminiscing, Body Language (eye contact, lifted brow)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--laughter--tone-change--.json",
+            "label": {
+              "none": ["Interviewee: Laughter, Tone Change, "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--contextualizing--hesitation--body-language--eye-contact--looks-off-.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Contextualizing, Hesitation, Body Language (eye contact, looks off)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--forthcomingness--body-language--tilting-head--squinting-.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Forthcomingness, Body Language (tilting head, squinting)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--body-language.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Body Language"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--eye-contact---consideration-.json",
+            "label": {
+              "none": ["Interviewee: Body Language (eye contact), Consideration "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-secondhand-experience--hesitation.json",
+            "label": {
+              "none": ["Interviewee: Relating Secondhand Experience, Hesitation"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--hesitation--reminisicing.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Hesitation, Reminisicing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--body-language--nods--smiles---gesturing.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Body Language (nods, smiles), Gesturing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--emotion--frustration-.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Emotion (frustration)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--forthcoming--reminiscing.json",
+            "label": {
+              "none": ["Interviewee: Forthcoming, Reminiscing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experiences--forthcomingness.json",
+            "label": {
+              "none": ["Interviewee: Relating firsthand experiences, Forthcomingness"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--relating-firsthand-experiences--reminiscing.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Relating firsthand experiences, Reminiscing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--gesturing--forthcomingness.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Gesturing, Forthcomingness"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--gesturing--relating-firsthand-experience.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Gesturing, Relating Firsthand Experience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--tone-change--laughter.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Tone Change, Laughter"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--eye-contact---forthcomingness--reminiscing-.json",
+            "label": {
+              "none": ["Interviewee: Body Language (eye contact), Forthcomingness, Reminiscing "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration-of-importance-of-interview-meta-awareness.json",
+            "label": {
+              "none": ["Interviewee: Consideration of importance of interview/Meta-Awareness"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--turining-tables--reminiscing--relating-firsthand-experience--contextualizing.json",
+            "label": {
+              "none": ["Interviewee: Turining Tables, Reminiscing, Relating Firsthand Experience, Contextualizing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer.json",
+            "label": {
+              "none": ["Interviewer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--emotion--suspicion---relating-firsthand-experiences.json",
+            "label": {
+              "none": ["Interviewee: Emotion (suspicion), Relating Firsthand Experiences"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--shaking-head--nodding--eye-contact---relating-firsthand-experience.json",
+            "label": {
+              "none": ["Interviewee: Body Language (shaking head, nodding, eye contact), Relating Firsthand Experience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--reminiscing--body-language--eye-contact--.json",
+            "label": {
+              "none": ["Interviewee: Reminiscing, Body Language (eye contact) "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--gesturing--mimicking--body-language--squinting--smiling-.json",
+            "label": {
+              "none": ["Interviewee: Gesturing, Mimicking, Body Language (squinting, smiling)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--laughter--frustration--relating-personal-detail.json",
+            "label": {
+              "none": ["Interviewee: Laughter, Frustration, Relating Personal Detail"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--reminiscing--body-language.json",
+            "label": {
+              "none": ["Interviewee: Reminiscing, Body Language"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--introduction--positioning-interview.json",
+            "label": {
+              "none": ["Interviewer: Introduction, Positioning Interview"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--tone-change--relating-secondhand-experience-.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Tone Change, Relating Secondhand Experience "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--reminiscing--adding-detail.json",
+            "label": {
+              "none": ["Interviewee: Reminiscing, Adding Detail"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-personal-detail.json",
+            "label": {
+              "none": ["Interviewee: Relating Personal Detail"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--gesturing--relating-firsthand-experience.json",
+            "label": {
+              "none": ["Interviewee: Gesturing, Relating Firsthand Experience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--consideration.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Consideration"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--positioning--specific-question--qualifying.json",
+            "label": {
+              "none": ["Interviewer: Positioning, Specific Question, Qualifying"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--asking-specific-question.json",
+            "label": {
+              "none": ["Interviewer: Asking specific question"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--body-language--directness.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Body Language, Directness"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--laughter--tone-change--body-language--eye-contact-.json",
+            "label": {
+              "none": ["Interviewee: Laughter, Tone Change, Body Language (eye contact)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--gesturing--relating-firsthand-experience--body-language--smiles--nods---reminiscing.json",
+            "label": {
+              "none": ["Interviewee: Gesturing, Relating Firsthand Experience, Body Language (smiles, nods), Reminiscing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--reminiscing--body-language--smiling--emphasis--nodding---relating-firsthand-experience--tone-change.json",
+            "label": {
+              "none": ["Interviewee: Reminiscing, Body Language (smiling, emphasis, nodding), Relating Firsthand Experience, Tone Change"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--tone-change.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Tone Change"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--persistence.json",
+            "label": {
+              "none": ["Interviewer: Persistence"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--gesturing--mimicking--body-language--grimace--smile-.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Gesturing, Mimicking, Body Language (grimace, smile)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--body-language--nodding-.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Body Language (nodding)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--interrupting--directness--forthcomingness--emotion--body-language--shakes-head-.json",
+            "label": {
+              "none": ["Interviewee: Interrupting, Directness, Forthcomingness, Emotion, Body Language (shakes head)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--eye-contact---forthcomingness.json",
+            "label": {
+              "none": ["Interviewee: Body Language (eye contact), Forthcomingness"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--consideration--forthcomingness--body-language--nods-.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Consideration, Forthcomingness, Body Language (nods)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--relating-personal-detail--body-language--shrug--looking-off---consideration--forthcomingness.json",
+            "label": {
+              "none": ["Interviewee: Directness, Relating Personal Detail, Body Language (shrug, looking off), Consideration, Forthcomingness"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--interrupts--forthcomingness--body-language--smile-.json",
+            "label": {
+              "none": ["Interviewee: Interrupts, Forthcomingness, Body Language (smile)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--contextualizing.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Contextualizing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language.json",
+            "label": {
+              "none": ["Interviewee: Body Language"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--eye-contact---relating-firsthand-experience.json",
+            "label": {
+              "none": ["Interviewee: Body Language (eye contact), Relating Firsthand Experience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--hesitation--body-language--eye-contact--lifted-brow---tone-change.json",
+            "label": {
+              "none": ["Interviewee: Hesitation, Body Language (eye contact, lifted brow), Tone Change"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--reminiscing--.json",
+            "label": {
+              "none": ["Interviewee: Reminiscing, "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--tilts-head--closes-eyes-.json",
+            "label": {
+              "none": ["Interviewee: Body Language (tilts head, closes eyes)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--mimicking--frustration.json",
+            "label": {
+              "none": ["Interviewee: Mimicking, Frustration"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--slow-for-emphasis--consideration.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Slow for emphasis, Consideration"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--interrupting.json",
+            "label": {
+              "none": ["Interviewee: Interrupting"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--reminisicing--relating-firsthand-experience--body-language--grimacing--nodding-.json",
+            "label": {
+              "none": ["Interviewee: Reminisicing, Relating Firsthand Experience, Body Language (grimacing, nodding)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--shaking-head--looking-away---relating-firsthand-experience.json",
+            "label": {
+              "none": ["Interviewee: Body Language (shaking head, looking away), Relating Firsthand Experience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--gesturing--body-language--smiling-.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Gesturing, Body Language (smiling)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--rapport--relating.json",
+            "label": {
+              "none": ["Interviewer: Rapport, Relating"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--beginning-question-slowly.json",
+            "label": {
+              "none": ["Interviewer: Beginning Question slowly"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--body-language--shakes-head-.json",
+            "label": {
+              "none": ["Interviewee: Directness, Body Language (shakes head)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--mimicking--body-language--grimacing-.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Mimicking, Body Language (grimacing)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--contextualizing--asking-specific-question.json",
+            "label": {
+              "none": ["Interviewer: Contextualizing, Asking specific question"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--gesturing--body-language--smile--.json",
+            "label": {
+              "none": ["Interviewee: Gesturing, Body Language (smile) "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--relating-firsthand-experiences.json",
+            "label": {
+              "none": ["Interviewee: Body Language, Relating firsthand experiences"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--reminiscing.json",
+            "label": {
+              "none": ["Interviewee: Reminiscing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--body-language--nod--raised-eyebrows-.json",
+            "label": {
+              "none": ["Interviewee: Directness, Body Language (nod, raised eyebrows)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--reminiscing.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Reminiscing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--dissonance--tone-change--laughter.json",
+            "label": {
+              "none": ["Interviewee: Dissonance, Tone Change, Laughter"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--explaining-.json",
+            "label": {
+              "none": ["Interviewee: Explaining "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--specific-question.json",
+            "label": {
+              "none": ["Interviewer: Specific Question"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--hesitation.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Hesitation"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--reminscing--relating-personal-detail-.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Reminscing, Relating Personal Detail "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--gesturing--laughter.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Gesturing, Laughter"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--positioning--contextualizing.json",
+            "label": {
+              "none": ["Interviewer: Positioning, Contextualizing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--clarifying--specific-questions.json",
+            "label": {
+              "none": ["Interviewer: Clarifying, Specific Questions"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--reminiscing--laughter.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Reminiscing, Laughter"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--consideration--contextualization.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Consideration, Contextualization"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--reminiscing-.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Reminiscing "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--shrug--squinting--nodding-.json",
+            "label": {
+              "none": ["Interviewee: Body Language (shrug, squinting, nodding)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--mimicking--body-language--nodding-.json",
+            "label": {
+              "none": ["Interviewee: Mimicking, Body Language (nodding)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--qualifying--relating-firsthand-experience--body-language--eye-contact--nodding---consideration.json",
+            "label": {
+              "none": ["Interviewee: Qualifying, Relating Firsthand Experience, Body Language (eye contact, nodding), Consideration"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--clarifying.json",
+            "label": {
+              "none": ["Interviewer: Clarifying"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration-relating-firsthand-experience--body-language--raised-eyebrow--smile-.json",
+            "label": {
+              "none": ["Interviewee: Consideration,Relating Firsthand Experience, Body Language (raised eyebrow, smile)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--contextualizing.json",
+            "label": {
+              "none": ["Interviewer: Contextualizing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--body-language--eye-contact-.json",
+            "label": {
+              "none": ["Interviewee: Directness, Body Language (eye contact)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--laughter--tone-shift.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Laughter, Tone Shift"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--laughter--tone-change--relating-personal-detail.json",
+            "label": {
+              "none": ["Interviewee: Laughter, Tone Change, Relating Personal Detail"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--shakes-head--scoff---dissonance--gesturing--recalling-secondhand-experience.json",
+            "label": {
+              "none": ["Interviewee: Body Language (shakes head, scoff), Dissonance, Gesturing, Recalling Secondhand Experience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--gesturing--relating-firsthand-experience--body-language--eye-contact-.json",
+            "label": {
+              "none": ["Interviewee: Gesturing, Relating Firsthand Experience, Body Language (eye contact)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-personal-detail--body-language--raised-eyebrows-.json",
+            "label": {
+              "none": ["Interviewee: Relating Personal Detail, Body Language (raised eyebrows)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--looking-off---relating-firsthand-experience--contextualizing.json",
+            "label": {
+              "none": ["Interviewee: Body Language (looking off), Relating Firsthand Experience, Contextualizing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--gesturing--consideration.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Gesturing, Consideration"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--positioning.json",
+            "label": {
+              "none": ["Interviewer: Positioning"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--gesturing--body-language--looks-off---rapport-.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing. Gesturing, Body Language (looks off), Rapport "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--gesturing--body-language--shaking-head---relating-personal-details-.json",
+            "label": {
+              "none": ["Interviewee: Gesturing, Body Language (shaking head), relating personal details "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--contextualizing.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Contextualizing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--smiles--looks-off--shakes-head---hesitation--consideration--tone-change--gesturing.json",
+            "label": {
+              "none": ["Interviewee: Body Language (smiles, looks off, shakes head), hesitation, Consideration, Tone Change, Gesturing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--contextualizing--relating-firsthand-experiences--rapport--reminiscing.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Contextualizing, Relating Firsthand Experiences, Rapport, Reminiscing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--consideration--body-language--raised-eyebrow---gesturing.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Consideration, Body Language (raised eyebrow), Gesturing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experiences--gesturing--directness.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experiences, Gesturing, Directness"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--body-language--squinting--looking-off---hesitation.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Body Language (squinting, looking off), Hesitation"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--shrugging--fidgeting-.json",
+            "label": {
+              "none": ["Interviewee: Body Language (shrugging, fidgeting)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--qualifying--gesturing--directness.json",
+            "label": {
+              "none": ["Interviewee: Qualifying, Gesturing, Directness"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experiences--gesturing.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experiences, Gesturing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--tone-change--relating-firsthand-experience--body-language--nod--eye-contact-.json",
+            "label": {
+              "none": ["Interviewee: Tone Change, Relating Firsthand Experience, Body Language (nod, eye contact)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--hesitation--contextualizing.json",
+            "label": {
+              "none": ["Interviewer: Hesitation, Contextualizing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--gesturing--body-language--squinting---recalling-firsthand-experience.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Gesturing, Body Language (squinting), Recalling Firsthand Experience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--shaking-head--eye-contact--grimacing---contextualizing.json",
+            "label": {
+              "none": ["Interviewee: Body Language (shaking head, eye contact, grimacing), Contextualizing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--body-language--shaking-head--shrugging---mimicking--relating-firsthand-experience--tone-change.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Body Language (shaking head, shrugging), Mimicking, Relating Firsthand Experience, Tone Change"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness.json",
+            "label": {
+              "none": ["Interviewee: Directness"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--gesturing--body-language--looks-off--rolls-eyes-.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Gesturing, Body Language (looks off, rolls eyes)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--reminiscing--laughter.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Reminiscing, Laughter"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-personal-detail--reminiscing--body-language--sigh--nods-.json",
+            "label": {
+              "none": ["Interviewee: Relating Personal Detail, Reminiscing, Body Language (sigh, nods)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration.json",
+            "label": {
+              "none": ["Interviewee: Consideration"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--relating-firsthand-experience--relating-personal-detail--hesitation--tone-change-.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Relating Firsthand Experience, Relating Personal Detail, Hesitation, Tone Change "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--eye-contact-.json",
+            "label": {
+              "none": ["Interviewee: Body Language (eye contact)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--hesitation--reminiscing--body-language--nodding--frown--eye-contact-.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Hesitation, Reminiscing, Body Language (nodding, frown, eye contact)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--forthcomingness--body-language--nodding-.json",
+            "label": {
+              "none": ["Interviewee: Directness, Forthcomingness, Body Language (nodding)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--interrupting--directness.json",
+            "label": {
+              "none": ["Interviewee: Interrupting, Directness"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--rapport--joking---consideration.json",
+            "label": {
+              "none": ["Interviewee: Rapport (joking), Consideration"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experiences--laughter.json",
+            "label": {
+              "none": ["Interviewee: Relating firsthand experiences, Laughter"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--hesitation--consideration--contextualizing--body-language--smile--looking-off--grimace---relating-firsthand-experience.json",
+            "label": {
+              "none": ["Interviewee: Hesitation, Consideration, Contextualizing, Body Language (smile, looking off, grimace), Relating Firsthand Experience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--gesturing-.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Gesturing "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--hesitation--gesturing--mimicking.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Hesitation, Gesturing, Mimicking"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--reminiscing--body-language--eye-contact--lifted-brow--smile---relating-secondhand-experience--tone-change.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Reminiscing, Body Language (eye contact, lifted brow, smile), Relating Secondhand Experience, Tone Change"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--body-language--eye-contact---dissonance--nonchalance-despite-prior-emotion-.json",
+            "label": {
+              "none": ["Interviewee: Body Language (eye contact), Dissonance (nonchalance despite prior emotion)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--interrupting--forthcomingness--directness--consideration--body-language--looks-off--presses-lips-.json",
+            "label": {
+              "none": ["Interviewee: Interrupting, Forthcomingness, Directness, Consideration, Body Language (looks off, presses lips)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--interrupting--relating-firsthand-experience-.json",
+            "label": {
+              "none": ["Interviewee: Interrupting, Relating Firsthand Experience "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--gesturing--contextualizing--body-language--eye-contact-.json",
+            "label": {
+              "none": ["Interviewee: Gesturing, Contextualizing, Body Language (Eye Contact)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--gesturing--body-language--smiling--shaking-head---reminiscing.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Gesturing, Body Language (smiling, shaking head), Reminiscing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--positioning--contextualizing--specific-question.json",
+            "label": {
+              "none": ["Interviewer: Positioning, Contextualizing, Specific Question"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--mimicking--body-language--smiles-.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Mimicking, Body Language (smiles)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--body-language--looking-off---contextualization-.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Body Language (looking off), Contextualization "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--body-language--shrugging--looking-off-.json",
+            "label": {
+              "none": ["Interviewee: Directness, Body Language (shrugging, looking off)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--gesturing.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Gesturing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--tone-change--relating-firsthand-experience-.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Tone Change, Relating Firsthand Experience,"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--mimicking--frustration--contextualizing--relating-personal-detail.json",
+            "label": {
+              "none": ["Interviewee: Mimicking, Frustration, Contextualizing, Relating Personal Detail"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--tone-change--contextualizing--body-language--shaking-head---gesturing.json",
+            "label": {
+              "none": ["Interviewee: Directness, Tone Change, Contextualizing, Body Language (shaking head), Gesturing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--hesitation--body-language--slight-grimace-.json",
+            "label": {
+              "none": ["Interviewee: Hesitation, Body Language (slight grimace)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--contextualization--specific-question.json",
+            "label": {
+              "none": ["Interviewer: Contextualization, Specific Question"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-personal-detail--relating-secondhand-experience--tone-change--dissonance.json",
+            "label": {
+              "none": ["Interviewee: Relating Personal Detail, Relating Secondhand Experience, Tone Change, Dissonance"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--laughter--relating-secondhand-experience.json",
+            "label": {
+              "none": ["Interviewee: Laughter, Relating Secondhand Experience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--hesitation--laughter--relating-firsthand-experience.json",
+            "label": {
+              "none": ["Interviewee: Hesitation, Laughter, Relating Firsthand Experience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--gesturing--hesitation--body-language--eye-contact-.json",
+            "label": {
+              "none": ["Interviewee: Consideration, Gesturing, Hesitation, Body Language (eye contact)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--qualifying-question--specific-question.json",
+            "label": {
+              "none": ["Interviewer: Qualifying Question, Specific Question"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--mimicking--consideration.json",
+            "label": {
+              "none": ["Interviewee: Mimicking, Consideration"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--body-langauge--smile---laughter--mimicking--consideration.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Body Langauge (smile), Laughter, Mimicking, Consideration"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--body-lanugage--nods-.json",
+            "label": {
+              "none": ["Interviewee: Directness, Body Lanugage (nods)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualization.json",
+            "label": {
+              "none": ["Interviewee: Contextualization"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--reminiscing--consideration-.json",
+            "label": {
+              "none": ["Interviewee: Reminiscing, Consideration "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--body-language--nod--squint--head-tilt-.json",
+            "label": {
+              "none": ["Interviewee: Directness, Body Language (nod, squint, head tilt)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--hesitation--relating-firsthand-experience--contextualizing.json",
+            "label": {
+              "none": ["Interviewee: Hesitation, Relating Firsthand Experience, Contextualizing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewer--persistence--specific-question.json",
+            "label": {
+              "none": ["Interviewer: Persistence, Specific Question"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--body-language--eye-contact---gesturing.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Body Language (eye contact), Gesturing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--rephrasing-question.json",
+            "label": {
+              "none": ["Interviewee: Rephrasing Question"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--relating-secondhand-experience.json",
+            "label": {
+              "none": ["Interviewee: Contextualizing, Relating Secondhand Experience"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--emotion--choking-up---reminiscing--relating-firsthand-experiences--body-language--fidgeting-.json",
+            "label": {
+              "none": ["Interviewee: Emotion (choking up), Reminiscing, Relating Firsthand Experiences, Body Language (fidgeting)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--body-language--looks-off-.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Body Language (looks off)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--reminiscing.json",
+            "label": {
+              "none": ["Interviewee: Relating Firsthand Experience, Reminiscing"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--qualifying--hesitation--.json",
+            "label": {
+              "none": ["Interviewee: Qualifying, Hesitation, "]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--gesturing--contextualizing--body-language--smiling--eye-contact-.json",
+            "label": {
+              "none": ["Interviewee: Gesturing, Contextualizing, Body Language (Smiling, Eye Contact)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--amusement--emotion--enthusiasm-.json",
+            "label": {
+              "none": ["Interviewee: Amusement, Emotion (enthusiasm)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--body-language--laughter--shaking-head-.json",
+            "label": {
+              "none": ["Interviewee: Directness, Body Language (laughter, shaking head)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--qualifying--hesitation--relating-personal-detail-.json",
+            "label": {
+              "none": ["Interviewee: Qualifying, Hesitation, Relating Personal Detail "]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/paintings",

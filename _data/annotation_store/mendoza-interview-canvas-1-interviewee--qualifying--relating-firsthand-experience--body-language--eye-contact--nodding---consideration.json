@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--qualifying--relating-firsthand-experience--body-language--eye-contact--nodding---consideration.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Qualifying, Relating Firsthand Experience, Body Language (eye contact, nodding), Consideration",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--qualifying--relating-firsthand-experience--body-language--eye-contact--nodding---consideration-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "To a degree. I was politicized to the point that I wanted to make sure...One of my great moments was having Cesar Chavez visit our newspaper. And I made sure he got an interview with the publisher, and the editor. So I wanted to make sure the stories got out. And the stories were covered fairly, and accurately, and completely. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "15.0"
+        }
+      }
+    }
+  ]
+}

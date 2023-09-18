@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--consideration--forthcomingness--body-language--nods-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Relating Firsthand Experience, Consideration, Forthcomingness, Body Language (nods)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--relating-firsthand-experience--consideration--forthcomingness--body-language--nods--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<html>And it occurred to me, you got to be careful about things like that. Because although I don't think they meant anything, they <i>were</i> singling us out. And later, we found out there were things that– there were people singling us out, not always for good reasons. So in that respect, we became <i>more</i> sensitive to the taco beat. And what all that represents. *nods*</html>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "42.0"
+        }
+      }
+    }
+  ]
+}

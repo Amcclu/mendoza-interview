@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--interrupting--relating-firsthand-experience--consideration--gesturing--mimicking--reminiscing.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Interrupting, Relating Firsthand Experience, Consideration, Gesturing, Mimicking, Reminiscing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--interrupting--relating-firsthand-experience--consideration--gesturing--mimicking--reminiscing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "News media. We had...at one of the Journalism Opportunities Conferences. I think it was a Friday night. A friend – I was by then spending time in the west side of LA in a different part of tow – And I had a restaurant, friend, location owner. I said, \"Can we\" – I don't know, we had 20 people. And I'll never forget that night because it was people ready to pay dues. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "59.0,60.0"
+        }
+      }
+    }
+  ]
+}

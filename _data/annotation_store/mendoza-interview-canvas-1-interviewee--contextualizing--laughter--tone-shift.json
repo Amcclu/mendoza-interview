@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--contextualizing--laughter--tone-shift.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Contextualizing, Laughter, Tone Shift",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--contextualizing--laughter--tone-shift-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That's how we've always tried to be. And the other thing was informal. I can – there's some people there that give me credit who are very well known in the media for getting them exposed, giving them opportunities. That's all we tried to do. Walk them into a newsroom and introduce them to the boss. Just like I did with stories *laughs* Same thing. *big smile, but quick expression change*",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "48.0"
+        }
+      }
+    }
+  ]
+}

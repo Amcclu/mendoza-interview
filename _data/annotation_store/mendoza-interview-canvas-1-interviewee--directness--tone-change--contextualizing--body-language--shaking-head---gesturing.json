@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--directness--tone-change--contextualizing--body-language--shaking-head---gesturing.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Directness, Tone Change, Contextualizing, Body Language (shaking head), Gesturing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--directness--tone-change--contextualizing--body-language--shaking-head---gesturing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We just, we just registered that we noticed that it was wrong, that he didn't deserve to be singled out. It was just a statement. But in those days, because we had so many people, like Cruz, like me, that were identified in the media, *quieter* people listened. We'd had it at the Press Club, at the old Press Club on Vernmont. So they listened and it was a story.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "44.0"
+        }
+      }
+    }
+  ]
+}

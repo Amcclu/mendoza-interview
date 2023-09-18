@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--reminisicing--relating-firsthand-experience--body-language--grimacing--nodding-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Reminisicing, Relating Firsthand Experience, Body Language (grimacing, nodding)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--reminisicing--relating-firsthand-experience--body-language--grimacing--nodding--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I was raised, my first home in Colton – when I was four I think we moved there – was half a block from four or five railroad tracks, and they would do switching there. You can imagine it was like an earthquake sometimes. We'd get 100 cars, freight train cars, and it was big noise, and tumultuous.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "13.0"
+        }
+      }
+    }
+  ]
+}

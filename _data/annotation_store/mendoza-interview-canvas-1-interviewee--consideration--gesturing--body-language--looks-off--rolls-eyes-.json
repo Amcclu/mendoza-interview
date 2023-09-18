@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--consideration--gesturing--body-language--looks-off--rolls-eyes-.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Consideration, Gesturing, Body Language (looks off, rolls eyes)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--consideration--gesturing--body-language--looks-off--rolls-eyes--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That was that was an issue for a while. Spanish language media. And, and I talk about it a lot, because I think it's a, it's a consideration. And one of the things that's important to understand is that – and no longer, it's different, it's changed in my career. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "49.0"
+        }
+      }
+    }
+  ]
+}

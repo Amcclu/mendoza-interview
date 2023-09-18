@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://Amcclu.github.io/mendoza-interview/annotations/mendoza-interview-canvas-1-interviewee--hesitation--consideration--contextualizing--body-language--smile--looking-off--grimace---relating-firsthand-experience.json",
+  "type": "AnnotationPage",
+  "label": "Interviewee: Hesitation, Consideration, Contextualizing, Body Language (smile, looking off, grimace), Relating Firsthand Experience",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "mendoza-interview-canvas-1-interviewee--hesitation--consideration--contextualizing--body-language--smile--looking-off--grimace---relating-firsthand-experience-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "As I later found out when I got to LA and started...spending more time with Félix and Frank, there was a group of Latinos in journalism. *pausing to remember* Frank del Olmo. Félix Gutiérrez was already doing some newspaper work, but mostly heading towards education. Henry Alfaro. Frank Cruz. Joel...I can't remember Joel's – he was, he gets credit for being the biggest instigator of Chicano news media. I can't remember his last name. *sheepish smile*",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://Amcclu.github.io/mendoza-interview/mendoza-interview/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "22.0,23.0"
+        }
+      }
+    }
+  ]
+}
